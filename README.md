@@ -4,7 +4,7 @@ Welcome to my very first website!
 
 This site was developed as part of the educational resources for Code Institute’s Full Stack Web Developer course.
 
-You can view my website [here!] ()
+You can view my website [here!] (https://sd-powell.github.io/my-practice-repro/index.html)
 
 ## Project Description
 
